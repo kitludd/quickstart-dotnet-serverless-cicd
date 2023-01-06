@@ -15,7 +15,7 @@ namespace WebApplicationSample.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Quick Start Samples:";
+            ViewBag.Message = "Quick Start Sample 2:";
 
             return View();
         }
